@@ -1,0 +1,7 @@
+WorldRoot_DormRoom	Assets/RoomPrefab/WorldRoot_DormRoom.prefab
+WorldRoot_LoveRoom	Assets/RoomPrefab/WorldRoot_LoveRoom.prefab
+WorldRoot_MerryGoRound	Assets/RoomPrefab/WorldRoot_MerryGoRound.prefab
+MainRoomScene	Assets/MainRoom/Scenes/MainRoomScene.unity
+LoveRoom_Final	Assets/Rooms/LoveRoom/Scenes/LoveRoom_Final.unity
+merry_goround_final	Assets/Rooms/Merry_go_round/Scenes/merry_goround_final.unity
+RPAsset	Packages/io.jagat.artlogic/RendererPipline/JagatRoomRender Pipeline Asset.asset

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: shaders
+  m_EditorClassIdentifier: 
+  m_GroupName: shaders
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4075af4c05ca6be478a9e629bd043b6c
+  m_SerializeEntries:
+  - m_GUID: 16e7cfd8f7167bc4790759708b75b16c
+    m_Address: USG_AdditionalLighting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 057347353be9d644185feb054ff09f08
+    m_Address: USG_PBR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88a9b005400fa7943859bcc0f3227135
+    m_Address: USG_PBR_AdditionalLighting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4fbfc71507105d54bb2d7efa3a1373b1
+    m_Address: USG_PBR_Glass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6d762e91ed2b0e4c942129f51f71553
+    m_Address: USG_PBR_Glass_AdditionalLighting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f76fc5d07747c04ba4942a0505e83a1
+    m_Address: USG_PBR_SSS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 651ed0b553460fc4881e85acd6587a0f
+    m_Address: USG_PBR_SSS_AdditionalLighting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 069063389439ed14d9c333ec3cfeea35
+    m_Address: USG_SampleLighMap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad4cb27c405c46843a54173606bd680d
+    m_Address: USG_SampleLighMap_AlphaClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31d729375ecc69c4cb9974a4ef4c3930
+    m_Address: USG_SampleLighMap_Reflection
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7656efdb4c73e8047b896026896a1b95
+    m_Address: USG_SampleLighMap_Reflection_w
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b22137b9c080e484a81d8028905f79de
+    m_Address: USG_SampleLighMap_w
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bafeba11034b2bc409829c8e68e3b402
+    m_Address: USG_SimpleGround
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ce57c73b0a9576458f4c58aa577f61e
+    m_Address: USG_SingleColorGround
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 78e9fd3feaf43d74384f9670af158084, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3e6e2007fdce3bf4681d2f5b14aa9d5c, type: 2}
+    - {fileID: 11400000, guid: 106faced1a26e1e4cb7f2e3425ca0cf2, type: 2}
